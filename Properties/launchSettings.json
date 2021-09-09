@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TipIt.Tests": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
